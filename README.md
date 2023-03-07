@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 💬 Write me on: [grieco.emiliojoseph@gmail.com](grieco.emiliojoseph@gmail.com)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emi-2205&show_icons=true&theme=vue-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emi-2205&show_icons=true&theme=merko">
 </p>
 
